@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RaduProiectSah.ClassP" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAYAAAAgAAAAAAAAAgQAAAACAAIAEAAAAAAAA=</HashCode>
+      <FileName>ClassP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.ClassPiesaAlba" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassPiesaAlba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.ClassPiesaNeagra" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassPiesaNeagra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.ClassPieseExtra" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAACAAAEAAAAAAAAAAAAAAAAgACAAA=</HashCode>
+      <FileName>ClassPieseExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.ClassTimer" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.MeniuJoc" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAABAGAgAAAAAACAAAICAAAAAAAACCAAACQAAAA=</HashCode>
+      <FileName>MeniuJoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.Program" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.TablaSah" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IARAgADiKKAAIBkKAACAgAAjQAAIACBAAAJCQJAAAAQ=</HashCode>
+      <FileName>TablaSah.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.Properties.Resources" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAGCAEABgAAQAIAAIBEAAAgQADAAAgQAAAABAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaduProiectSah.Properties.Settings" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
