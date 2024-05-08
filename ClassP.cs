@@ -141,7 +141,7 @@ namespace RaduProiectSah
                 }
             }
             this.value = value;
-            btneTabla = new PictureBox
+            btneTabla = new RoundPictureBox
             {
                 BackColor = System.Drawing.Color.Transparent,
                 BackgroundImage = tempRes,
