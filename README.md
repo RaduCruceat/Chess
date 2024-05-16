@@ -1,6 +1,6 @@
 # Chess Game
 
-A C# Windows Forms application for playing Chess locally agains another player.
+A C# Windows Forms application for playing Chess locally or online agains another player.
 
 
 ## Features
@@ -17,7 +17,6 @@ A C# Windows Forms application for playing Chess locally agains another player.
 - Framework: .NET Framework
 - UI: Windows Forms
 - Networking: TCP/IP Sockets
-- AI: Best Move algorithm using Binary Tree
  
 ## Game Rules
 
