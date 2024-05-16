@@ -21,8 +21,10 @@ A C# Windows Forms application for playing Chess locally agains another player.
  
 ## Game Rules
 
-#### Objective: Checkmate your opponent's king.
-#### Setup: Place pieces on a square board.
+#### Objective: 
+- Checkmate your opponent's king.
+#### Setup:
+- Place pieces on a square board.
 #### Piece Movement:
 - King moves one square in any direction.
 - Queen moves any number of squares horizontally, vertically, or diagonally.
