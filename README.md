@@ -43,4 +43,4 @@ A C# Windows Forms application for playing Chess locally or online agains anothe
 - Other draw scenarios: Insufficient material, fifty-move rule, threefold repetition, or agreement between players.
 
 
-<img src="https://github.com/RaduCruceat/Chess/blob/master/Resources/TablaSahScreen.png" alt="Game Board">
+<img src="https://raw.githubusercontent.com/RaduCruceat/Chess/master/Chess/Resources/ChessGif.gif" alt="Chess Board">
